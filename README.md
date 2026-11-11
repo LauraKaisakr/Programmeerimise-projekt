@@ -1,4 +1,5 @@
 # Programmeerimise projekt
+-[Projekti algversioon](Alfaversioon.md)
 ## Senine koostöö
 
 Koostöö paarilisega on seni sujunud hästi. Oleme arutanud projekti ideed ja pannud paika, milliseid võimalusi võiks programm sisaldada. Ülesanded oleme omavahel ära jaganud nii, et mõlemad tegeleksid nii programmeerimise kui ka projekti planeerimisega. Üldiselt oleme programmi koos kirjutanud ning selleks ka aktiivselt kokku saanud.
